@@ -1,0 +1,53 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+#_idVideo000 {
+	height:100.00%;
+	width:100.00%;
+}
+#_idContainer000 {
+	display:inline-block;
+	height:696px;
+	text-align:left;
+	width:1084px;
+}
+#_idContainer001 {
+	display:inline-block;
+	height:691px;
+	overflow:hidden;
+	width:1229px;
+}
+#_idContainer002 {
+	display:inline-block;
+	height:695px;
+	overflow:hidden;
+	width:1236px;
+}
+object._idGenObjectAttribute-1 {
+	height:100.00%;
+	width:100.00%;
+}
+img._idGenObjectAttribute-2 {
+	-ms-transform:translate(0.000%,0.000%) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000%,0.000%) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:100.00%;
+	min-width:100%;
+	transform:translate(0.000%,0.000%) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000%,0.000%) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:100.00%;
+}
+div._idGenObjectStyleOverride-1 {
+	border-width:0px;
+}
+div._idGenObjectLayout-1 {
+	text-align:center;
+}
